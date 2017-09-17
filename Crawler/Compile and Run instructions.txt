@@ -1,0 +1,24 @@
+To compile:
+javac -cp jsoup-1.10.3.jar HTMLParserExample1.java
+
+To run:
+java -cp jsoup-1.10.3.jar;. HTMLParserExample1
+
+------------------------------------------------------------------------
+
+To compile:
+javac -cp jsoup-1.10.3.jar Taller4.java
+
+To run:
+java -cp jsoup-1.10.3.jar;. Taller4
+
+------------------------------------------------------------------------
+
+To compile:
+javac -cp jsoup-1.10.3.jar DaviPlata.java
+
+To run:
+java -cp jsoup-1.10.3.jar;. DaviPlata
+
+------------------------------------------------------------------------
+
